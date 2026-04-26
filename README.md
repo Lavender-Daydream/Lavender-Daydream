@@ -16,7 +16,6 @@
 | CSS | Coding and Self-Hosting [My Own Website](https://www.lavender-daydream.com) |
 | Javascript | |
 | Git | |
-| Self-Hosting | |
 
 ## 🏠 Where I'm at
 
