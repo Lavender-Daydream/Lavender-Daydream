@@ -11,16 +11,13 @@
 
 ## 👩‍💻 What I'm up to
 
-- 🌱 I’m currently learning ...
-  - HTML
-  - CSS
-  - Javascript
-  - Git
-  - Running my own Virtual Private Server
-
-- 🔭 I’m currently working on ...
-  - Running my own Virtual Private Server with [My Dad](https://github.com/PowerAppsDarren)
-  - Coding and Self-Hosting [My Own Website](www.lavender-daydream.com)
+| 🌱 Currently Learning | 🔭 Currently Working On |
+|---|---|
+| HTML | Running my own VPS with [My Dad](https://github.com/PowerAppsDarren) |
+| CSS | Coding and Self-Hosting [My Own Website](https://www.lavender-daydream.com) |
+| Javascript | |
+| Git | |
+| Self-Hosting | |
 
 ## 🏠 Where I'm at
 
