@@ -5,8 +5,11 @@
   - CSS
   - Javascript
   - Git
+  - Running my own Virtual Private Server
 
 ## Where I'm at
+
+- [Self-Hosted Linkstack (All of my profiles/links)](https://linkstack.lavender.spl.tech/@Lavender-Daydream)
 
 ## Languages
 <!--
