@@ -12,7 +12,6 @@
 - [Self-Hosted Linkstack (All of my profiles/links)](https://linkstack.lavender.spl.tech/@Lavender-Daydream)
 
 ## Languages and tools
-## Languages
 <table>
   <tr>
     <td>
