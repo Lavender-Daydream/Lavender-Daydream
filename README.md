@@ -1,4 +1,4 @@
-## Howdy, I'm Lavender.Daydream 👋
+## 👋🤠 Howdy, I'm Lavender.Daydream 
 
 - 🌱 I’m currently learning:
   - HTML
