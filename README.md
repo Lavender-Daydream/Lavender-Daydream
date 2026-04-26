@@ -7,7 +7,7 @@
   - Hobby Artist, Writer, and Generally Creative Person
   - Semi-Casual Gamer. 3DS, Switch, Laptop, Steam Deck
   - MBTI: INFP
-  - Enneagram: [4](https://www.enneagraminstitute.com/type-4/)w5 6w5 9w1 Soc/Sp
+  - Enneagram: [4](https://www.enneagraminstitute.com/type-4/)w[5](https://www.enneagraminstitute.com/type-5/) [6](https://www.enneagraminstitute.com/type-5/)w[5](https://www.enneagraminstitute.com/type-5/) [9](https://www.enneagraminstitute.com/type-9/)w[1](https://www.enneagraminstitute.com/type-1/) [Soc/Sp](https://www.enneagrammer.com/instincts)
 
 ## 👩‍💻 What I'm up to
 
