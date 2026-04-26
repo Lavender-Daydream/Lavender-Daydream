@@ -1,17 +1,25 @@
-## 👋🤠 Howdy, I'm Lavender.Daydream 
+## 👋😺 Meowdy, I'm Lavender.Daydream
 
-- 🌱 I’m currently learning:
+- 💬 About me
+  - She/Her ; Woman
+  - 
+  
+- 🌱 I’m currently learning ...
   - HTML
   - CSS
   - Javascript
   - Git
   - Running my own Virtual Private Server
 
-## Where I'm at
+- 🔭 I’m currently working on ...
+  - Running my own Virtual Private Server with [My Dad](https://github.com/PowerAppsDarren)
+  - Coding and Self-Hosting [My Own Website](www.lavender-daydream.com)
+
+## 🏠 Where I'm at
 
 - [Self-Hosted Linkstack (All of my profiles/links)](https://linkstack.lavender.spl.tech/@Lavender-Daydream)
 
-## Languages and tools
+## 🛠️ Languages and tools 
 <table>
   <tr>
     <td>
