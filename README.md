@@ -1,5 +1,14 @@
 ## Howdy, I'm Lavender.Daydream 👋
 
+- 🌱 I’m currently learning:
+  - HTML
+  - CSS
+  - Javascript
+  - Git
+
+## Where I'm at
+
+## Languages
 <!--
 **Lavender-Daydream/Lavender-Daydream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
