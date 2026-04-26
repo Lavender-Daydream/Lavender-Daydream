@@ -1,9 +1,16 @@
-## 👋😺 Meowdy, I'm Lavender.Daydream
+# 👋😺 Meowdy, I'm Lavender.Daydream
 
-- 💬 About me
+### 💬 About me
+
   - She/Her ; Woman
-  - 
-  
+  - Newbie Programmer/Software Dev/Techie person
+  - Hobby Artist, Writer, and Generally Creative Person
+  - Semi-Casual Gamer. 3DS, Switch, Laptop, Steam Deck
+  - MBTI: INFP
+  - Enneagram: [4](https://www.enneagraminstitute.com/type-4/)w5 6w5 9w1 Soc/Sp
+
+## 👩‍💻 What I'm up to
+
 - 🌱 I’m currently learning ...
   - HTML
   - CSS
