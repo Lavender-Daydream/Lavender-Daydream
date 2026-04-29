@@ -6,7 +6,7 @@
   👩‍💻 Newbie Programmer/Software Dev/Techie person <br>
   👩‍🎨 Hobby Artist, Creative Writer, and Generally Creative Person <br>
   🎮 Semi-Casual Gamer. 3DS, Switch, Laptop, Steam Deck<br>
-  🧠 MBTI & Enneagram: [4](https://www.enneagraminstitute.com/type-4/)w[5](https://www.enneagraminstitute.com/type-5/) [6](https://www.enneagraminstitute.com/type-5/)w[5](https://www.enneagraminstitute.com/type-5/) [9](https://www.enneagraminstitute.com/type-9/)w[1](https://www.enneagraminstitute.com/type-1/) [Soc/Sp](https://www.enneagrammer.com/instincts)
+  🧠 MBTI & Enneagram: INFP [4](https://www.enneagraminstitute.com/type-4/)w[5](https://www.enneagraminstitute.com/type-5/) [6](https://www.enneagraminstitute.com/type-5/)w[5](https://www.enneagraminstitute.com/type-5/) [9](https://www.enneagraminstitute.com/type-9/)w[1](https://www.enneagraminstitute.com/type-1/) [Soc/Sp](https://www.enneagrammer.com/instincts)
 
 ## 👩‍💻 What I'm up to
 
